@@ -45,6 +45,7 @@ a {
     font-weight: bold;
 }
 
+a.main { text-decoration: none; }
 
 
 
