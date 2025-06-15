@@ -43,3 +43,5 @@ a {
     color: #333;
     font-weight: bold;
 }
+
+a.home { text-decoration: none; }
