@@ -3,6 +3,8 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/11.9.1/firebas
 import { getAuth } from "https://www.gstatic.com/firebasejs/11.9.1/firebase-auth.js";
 
 // Konfigurasi Firebase
+// Jangan menggunakan email asli, karena API Keynya terlihat jelas di GitHub. 
+// Ini hanya untuk latihan SignUp dan LogIn yang menggunakna email asal / acak.
 const firebaseConfig = {
     apiKey: "AIzaSyDauapMUBRWahXVaLQoz1kCqbzyIYiAgDk",
     authDomain: "sign-log-web.firebaseapp.com",
